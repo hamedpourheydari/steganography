@@ -1,5 +1,8 @@
 """
-طراحی شده توسط حامد پورحیدری
+Made by Hamed Pourheidari
+pip install tkinter
+pip install stegano
+pip install pillow
 """
 
 from tkinter import *
